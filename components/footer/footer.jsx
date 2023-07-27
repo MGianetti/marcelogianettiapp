@@ -83,7 +83,7 @@ export default function Footer() {
   const handleSubmit = async () => {
     const response = await axios.post("/api/sendEmail", {
       from: "mateusgianetti1996@gmail.com",
-      to: "urbanease@outlook.com.br",
+      to: "MarceloGianetti1@gmail.com",
       subject: "From footer form",
       html: `
       <div>

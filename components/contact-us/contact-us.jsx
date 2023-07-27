@@ -30,12 +30,12 @@ const contactOptions = [
   },
   {
     label: "WhatsApp",
-    value: "+55 12 99259-1635",
+    value: "+55 12 98149-0353",
     icon: BsPhone,
   },
   {
     label: "Email",
-    value: "mateusgianetti1996@gmail.com",
+    value: "MarceloGianetti1@gmail.com ",
     icon: HiOutlineMail,
   },
 ];
@@ -48,7 +48,7 @@ export default function ContactUs() {
   const handleSubmit = async () => {
     const response = await axios.post("/api/sendEmail", {
       from: "mateusgianetti1996@gmail.com",
-      to: "mateusgianetti1996@gmail.com",
+      to: "MarceloGianetti1@gmail.com",
       subject: "From contact form",
       html: `
       <div>

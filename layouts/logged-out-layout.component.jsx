@@ -25,7 +25,7 @@ export default function LoggedOutLayout({ children }) {
     const handleSubmit = async () => {
       const response = await axios.post("/api/sendEmail", {
         from: "mateusgianetti1996@gmail.com",
-        to: "urbanease@outlook.com.br",
+        to: "MarceloGianetti1@gmail.com",
         subject: "From popover form",
         html: `
         <div>
