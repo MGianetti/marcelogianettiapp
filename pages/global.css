@@ -1,0 +1,22 @@
+.blog-post-content {
+  margin-top: 2rem;
+}
+
+.blog-post-content h2 {
+  font-family: "Poppins";
+  font-size: large;
+  text-align: justify;
+  margin: 2rem 0;
+}
+
+.blog-post-content p {
+  font-family: "Vollkorn";
+  font-size: large;
+  text-align: justify;
+  margin: 2rem 0;
+}
+
+.blog-post-title {
+  font-family: "Poppins";
+  font-size: xx-large;
+}
