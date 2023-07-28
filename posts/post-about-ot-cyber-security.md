@@ -3,7 +3,7 @@ title: "First blog post title"
 date: "2023-06-21"
 tags: ["Tecnologia"]
 summary: "Post summary."
-author: "Mateus Gianetti"
+author: "Marcelo Gianetti"
 authorImg: "./mateus-gianetti.jpg"
 thumbImg: "/post-2.png"
 ---

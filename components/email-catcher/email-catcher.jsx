@@ -36,7 +36,7 @@ const EmailCatcher = () => {
     });
 
     if (response.status === 200) {
-      toast("Você foi cadastrado para o pré lançamento!", {
+      toast("Você foi cadastrado em nossa newsletter", {
         hideProgressBar: true,
         autoClose: 2000,
         type: "success",
