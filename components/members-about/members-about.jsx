@@ -78,7 +78,7 @@ const IntroSection = () => {
           >
             Meu nome é{" "}
             <Box as="strong" fontWeight="600" fontFamily="Vollkorn">
-              Mateus,
+              Marcelo,
             </Box>{" "}
             um desenvolvedor
             <Box as="span" whiteSpace="nowrap" fontFamily="Vollkorn">
