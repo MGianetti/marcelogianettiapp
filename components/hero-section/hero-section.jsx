@@ -60,7 +60,7 @@ export default function HeroSection({ openPopOver }) {
               textAlign={{ base: "center", md: "left" }}
             >
               <Text as={"span"} fontFamily={"Poppins"} position={"relative"}>
-                Mateus Gianetti
+                Marcelo Gianetti
               </Text>
               <br />
               <Text as={"span"} color={"primary.600"} fontFamily={"Poppins"}>

@@ -122,7 +122,7 @@ export default function Footer() {
               <Logo color={useColorModeValue("gray.700", "white")} />
             </Box>
             <Text fontSize={"sm"} fontFamily="Vollkorn">
-              © 2023 Mateus Gianetti de Jesus <br />
+              © 2023 Marcelo Gianetti de Jesus <br />
               Todos os direitos reservados
             </Text>
             {/* <Stack direction={"row"} spacing={6}>
